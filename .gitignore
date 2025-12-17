@@ -1,0 +1,6 @@
+# 忽略 Python 快取檔
+__pycache__/
+*.pyc
+
+# 忽略 VS Code 設定檔 (選填，如果不想上傳個人設定)
+.vscode/
